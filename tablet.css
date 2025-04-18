@@ -1,0 +1,64 @@
+@media (max-width: 1024px) {
+    main{
+        .decor{
+            max-width: 100%;
+        }
+        .brand{
+            flex-direction: column-reverse;
+            padding-left: 0;
+            .content{
+                text-align: center;
+                margin-right: auto;
+                margin-bottom: 64px;
+                padding-top: 64px;
+            }
+        }
+        .stand{
+            text-align: center;
+            flex-direction: column;
+            padding-right: 0;
+            .content{
+                margin-left: auto;
+                padding-top: 54px;
+                margin-bottom: 64px;
+            }
+        }
+        .client{
+            padding-block-start: 64px;
+            padding-block-end: 64px;
+            
+            h2{
+                margin-bottom: 50px;
+            }
+            .reviews{
+                flex-direction: column;
+                blockquote{
+                    max-width: 400px;
+                }
+            }
+        }
+        .services{
+            height: 50vh;
+            .photography{
+                padding-bottom: 60px;
+            }
+            .design{
+                padding-bottom: 60px;
+            }
+        }
+    }
+    .link-decor {
+        width: 137px;
+        height: 25px;
+        text-align: center;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    footer{
+        .foot{
+            justify-content: center;
+            row-gap: 25%;
+        }
+    }
+}
