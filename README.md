@@ -31,8 +31,8 @@
 
 ### Посилання
 
-- Рішення URL: [Add solution URL here](https://your-solution-url.com)
-- Живий сайт URL: [Add live site URL here](https://your-live-site-url.com)
+- [Рішення URL:](https://github.com/stoneandre/sunnyside-agency)
+- [Живий сайт URL:](https://stoneandre.github.io/sunnyside-agency/)
 
 ## Як я це зробив
 
