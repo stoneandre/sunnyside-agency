@@ -1,38 +1,38 @@
 # Frontend Mentor - Sunnyside - верстка і стилізація проекту дизайн-агенції
 
-This is a solution to the [Sunnyside - верстка і стилізація проекту дизайн-агенції](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Це рішення до челенджу [Sunnyside - верстка і стилізація проекту дизайн-агенції](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Завдання від Frontend Mentor допомагають покращити навички веброзробки, створюючи реалістичні проєкти.
 
 ## Зміст
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Огляд](#огляд)
+  - [Завдання](https://www.frontendmentor.io/challenges/agency-landing-page-7yVs3B6ef)
+  - [Скріншот](#дизайн)
+  - [Посилання](#посилання)
+- [Мій процес](#як-я-це-зробив)
+  - [Використані технології](#застосовані-технології)
+  - [Що я вивчив](#чого-я-навчився)
+  - [Корисні ресурси](#корисні-ресурси)
+- [Автор](#автор)
+- [Подяки](#подяки)
 
 ## Огляд
 
 ### Вимоги
 
-Users should be able to:
+Користувачі повинні мати змогу:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+-	Переглядати оптимальне компонування сайту відповідно до розміру екрана їхнього пристрою
+
+-	Бачити ховер-ефекти для всіх інтерактивних елементів на сторінці
 
 ### Дизайн
 
 ![](./readme-img/desktop-preview.jpg)
 
-### Links
+### Посилання
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Рішення URL: [Add solution URL here](https://your-solution-url.com)
+- Живий сайт URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Як я це зробив
 
@@ -44,9 +44,19 @@ Users should be able to:
 
 ### Чого я навчився
 
-Тут мені потрібно написати декілька речей про те чому саме я навчився
+Працюючи над цим проєктом, я поглибив свої знання у верстці та стилізації. Ось кілька основних речей, які я засвоїв:
 
-To see how you can add code snippets, see below:
+- Адаптивний дизайн: Навчився ефективно використовувати медіа-запити для забезпечення коректного відображення сайту на різних розмірах екранів.
+
+-	Flexbox та CSS Grid: Закріпив розуміння розміщення елементів за допомогою цих інструментів і коли краще використовувати кожен із них.
+
+-	Ховер-ефекти: Вдосконалив створення візуального зворотного зв’язку для інтерактивних елементів за допомогою псевдокласу :hover.
+
+-	Компонентний підхід: Створював окремі компоненти в React та стилізував їх за допомогою Styled Components, що дозволило підтримувати чисту та структуровану кодову базу.
+
+-	Оптимізація зображень: Дізнався, як важливо правильно працювати з розмірами та форматами зображень для швидшого завантаження сторінки.
+
+Щоб побачити, як можна додавати фрагменти коду, дивіться нижче:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -62,13 +72,13 @@ To see how you can add code snippets, see below:
 
 ### Корисні джерела інформації (не перекладати)
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN-HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN-CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Автор
 
-- Frontend Mentor - [@stoneandre](https://www.frontendmentor.io/profile/stoneandre)
+- Мій профіль на Frontend Mentor - [@stoneandre](https://www.frontendmentor.io/profile/stoneandre)
 
 ## Подяки
 
-Дякую ментору який мені допомагає вивчати HTML, CSS, JS
+Дякую ментору який мені допомагає вивчати HTML, CSS, JS.
